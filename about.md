@@ -41,7 +41,7 @@ permalink: /about/
 |---|---|
 |Genius|  |
 |---|---|
-|GitHub|  |
+|[GitHub](https://github.com/)| [Infos]({{site.url}}{{site.baseurl}}/github) |
 |---|---|
 |Goodreads|  |
 |---|---|
