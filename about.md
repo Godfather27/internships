@@ -11,82 +11,82 @@ permalink: /about/
 ## Targets
 
 |---|---|
-| Unternehmen | Details |
+| Unternehmen | Details | Technologie |
 |---|---|
-|500px|  |
+|500px|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|[Airbnb](https://www.airbnb.at/)| [Infos]({{site.url}}{{site.baseurl}}/airbnb) |
+|[Airbnb](https://www.airbnb.at/)| [Infos]({{site.url}}{{site.baseurl}}/airbnb) |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|A List Apart|  |
+|A List Apart|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Ask.fm|  |
+|Ask.fm|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Basecamp|
+|Basecamp| |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Bleacher Report|  |
+|Bleacher Report|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Bloomberg|  |
+|Bloomberg|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Clarity|  |
+|Clarity|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Couchsurfing|  |
+|Couchsurfing|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Dribbble|  |
+|Dribbble|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|[Facebook](https://www.facebook.com/)| [Infos]({{site.url}}{{site.baseurl}}/facebook) |
+|[Facebook](https://www.facebook.com/)| [Infos]({{site.url}}{{site.baseurl}}/facebook) |[PHP](http://builtwith.com/facebook.com)|
 |---|---|
-|Fiverr|  |
+|Fiverr|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Funny or Die|  |
+|Funny or Die|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Genius|  |
+|Genius|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|[GitHub](https://github.com/)| [Infos]({{site.url}}{{site.baseurl}}/github) |
+|[GitHub](https://github.com/)| [Infos]({{site.url}}{{site.baseurl}}/github) |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Goodreads|  |
+|Goodreads|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Groupon|  |
+|Groupon|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Hulu|  |
+|Hulu|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Indiegogo|  |
+|Indiegogo|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Jobster|  |
+|Jobster|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Kickstarter|  |
+|Kickstarter|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|LivingSocial|  |
+|LivingSocial|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Lumosity|  |
+|Lumosity|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|MyFitnessPal|  |
+|MyFitnessPal|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Pixlr|  |
+|Pixlr|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Scribd|  |
+|Scribd|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|SeeClickFix|  |
+|SeeClickFix|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|[Shopify](https://www.shopify.com/)| [Infos]({{site.url}}{{site.baseurl}}/shopify) |
+|[Shopify](https://www.shopify.com/)| [Infos]({{site.url}}{{site.baseurl}}/shopify) |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|SlideShare|  |
+|SlideShare|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Square|  |
+|Square|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Strava|  |
+|Strava|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|ThemeForest|  |
+|ThemeForest|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|[Twitch](http://www.twitch.tv/)| [Infos]({{site.url}}{{site.baseurl}}/twitch) |
+|[Twitch](http://www.twitch.tv/)| [Infos]({{site.url}}{{site.baseurl}}/twitch) |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|[Twitter](http://www.twitch.tv/)| [Infos]({{site.url}}{{site.baseurl}}/twitter) |
+|[Twitter](http://www.twitch.tv/)| [Infos]({{site.url}}{{site.baseurl}}/twitter) |[RoR](http://builtwith.com/twitter.com)|
 |---|---|
-|Urban Dictionary|  |
+|Urban Dictionary|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|We Heart It|  |
+|We Heart It|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Whitepages|  |
+|Whitepages|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Yammer|  |
+|Yammer|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
 |Zendesk|  |
