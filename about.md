@@ -67,7 +67,7 @@ permalink: /about/
 |---|---|
 |SeeClickFix|  |
 |---|---|
-|Shopify|  |
+|[Shopify](https://www.shopify.com/)| [Infos]({{site.url}}{{site.baseurl}}/shopify) |
 |---|---|
 |SlideShare|  |
 |---|---|

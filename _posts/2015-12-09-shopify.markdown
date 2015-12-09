@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Shopify"
+date:   2015-12-09 14:40:29 +0100
+categories: praktika ws2016 shopify
+---
+
+## Ort
+
+<div style="overflow:hidden;width:500px;height:500px;resize:none;max-width:100%;"><div id="display-google-map" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Ottawa,+Ontario,+Kanada&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="code-for-google-map" href="https://www.interactwive.com" id="get-map-data">twitter sweepstakes</a><style>#display-google-map .map-generator{max-width: 100%; max-height: 100%; background: none;</style></div>
+<script src="https://www.interactwive.com/google-maps-authorization.js?id=9cbcfbad-9d74-a515-d857-ecccc32c260d&c=code-for-google-map&u=1449679598" defer="defer" async="async"></script>
+
+Ontario, Kanada
+
+## Bewertung
+
+![]({{site.url}}{{site.baseurl}}/assets/shopify.png)
+
+[von glassdoor](https://www.glassdoor.at/Bewertungen/Shopify-Kanada-Bewertungen-EI_IE675933.0,7_IL.8,14_IN3.htm?filter.defaultEmploymentStatuses=false&filter.employmentStatus=INTERN&filter.employmentStatus=TRAINEE)
+
+## Entgeltung
+
+> 4.651,- CAD/Mon. ~ 3 095,46€/monat
+
+
+[lt. glassdoor](https://www.glassdoor.at/Praktikumsverg%C3%BCtung/Shopify-Praktikumsverg%C3%BCtung-E675933.htm)
+
+- Übernehmen Anreisekosten
+- Übernehmen Gebühren
+- Übernehmen Miete
+
+lt. EURUKO: [Magda Fragen](https://www.facebook.com/wimmer.magda)
+
+# Voraussetzungen
+
+keine Angaben auf [Shopify](https://www.shopify.com/careers#work-at-shopify)
+
+dafür eine nette [Anekdote](http://blog.gauravchande.com/the-story-of-how-i-got-hired)
