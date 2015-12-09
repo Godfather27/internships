@@ -77,7 +77,7 @@ permalink: /about/
 |---|---|
 |ThemeForest|  |
 |---|---|
-|Twitch|  |
+|[Twitch](http://www.twitch.tv/)| [Infos]({{site.url}}{{site.baseurl}}/twitch) |
 |---|---|
 |Urban Dictionary|  |
 |---|---|

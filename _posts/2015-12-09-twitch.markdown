@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Twitch"
+date:   2015-12-09 14:40:29 +0100
+categories: praktika ws2016 twitch
+---
+
+## Ort
+
+<div style="text-decoration:none; overflow:hidden; height:500px; width:500px; max-width:100%;"><div id="my-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=San+Francisco,+Kalifornien,+United+States&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="embedded-map-code" href="https://www.interactwive.com" id="auth-map-data">twitter business</a><style>#my-map-display .text-marker{max-width:none!important;background:none!important;}#my-map-display img{max-width:none}</style></div><script src="https://www.interactwive.com/google-maps-authorization.js?id=880504bf-697e-c972-d801-4dd904abd8e5&c=embedded-map-code&u=1449675844" defer="defer" async="async"></script>
+
+Kalifornien, USA
+
+## Bewertung
+
+![]({{site.url}}{{site.baseurl}}/assets/twitch.png)
+_keine Internship Bewertung_
+
+[von glassdoor](https://www.glassdoor.de/%C3%9Cberblick/Arbeit-bei-Twitch-EI_IE639426.11,17.htm)
+
+## Entgeltung
+
+keine Information auf Glassdoor (oder Google) für intern Gehälter
+
+
+# Voraussetzungen
+
+- Capable of thinking through a problem and presenting a reasonable solution
+- Implementing the solution reliably and quickly
+- Can pick up a new language, and be productive with it in a week
+- Likes to work collaboratively and can communicate well in a team environment
+
+**Bonus**
+
+- You know Linux. You wouldn’t be uncomfortable if someone suggested you spend a few hours digging around /proc to see if you can squeeze a bit more performance out of the tcp stack.
+- You've written an iPhone app that we can go download on our phones right now. Ditto Android, Palm Pre, or even Windows Mobile.
+- You don't just use open source, you've contributed bug fixes or features back. Or even better, you have your own project.
+- Previous experience using Javascript, Go, C/C++ in a production environment.
+
+[lt. twitch recruiting](https://jobs.lever.co/twitch/d49a5b35-ccc6-410f-aec4-addf17a4e3ff)
+
+eine [Anekdote](http://blog.twitch.tv/2014/09/a-day-in-the-life-at-twitch-mike-perrone-software-engineer-intern/)
