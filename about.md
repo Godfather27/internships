@@ -41,7 +41,7 @@ permalink: /about/
 |---|---|
 |Genius|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|[GitHub](https://github.com/)| [Infos]({{site.url}}{{site.baseurl}}/github) |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
+|[<s>GitHub</s>](https://github.com/)| [Infos]({{site.url}}{{site.baseurl}}/github) |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
 |Goodreads|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
@@ -89,4 +89,6 @@ permalink: /about/
 |---|---|
 |Yammer|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|
 |---|---|
-|Zendesk|  |
+|[Youtube](https://www.youtube.com/)|[Infos]({{site.url}}{{site.baseurl}}/youtube)|???|
+|---|---|
+|Zendesk|  |[RoR](http://skillcrush.com/2015/02/02/37-rails-sites/)|

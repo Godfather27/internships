@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Youtube"
+date:   2015-12-09 14:40:29 +0100
+categories: praktika ws2016 youtube
+---
+
+## Ort
+
+<div style="overflow:hidden;width:500px;height:500px;resize:none;max-width:100%;"><div id="display-google-map" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=San+Bruno,+CA+94066,+USA&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="code-for-google-map" href="https://www.interactwive.com" id="get-map-data">online sweepstakes</a><style>#display-google-map .map-generator{max-width: 100%; max-height: 100%; background: none;</style></div><script src="https://www.interactwive.com/google-maps-authorization.js?id=cf7c38c0-1b95-a7a3-a1a0-60de7fdbecc0&c=code-for-google-map&u=1449679598" defer="defer" async="async"></script>
+
+Kalifornien, USA
+
+## Bewertung
+
+![]({{site.url}}{{site.baseurl}}/assets/youtube.png)
+
+[von glassdoor](https://www.glassdoor.at/Bewertungen/YouTube-Bewertungen-E40803.htm?filter.defaultEmploymentStatuses=false&filter.employmentStatus=INTERN&filter.employmentStatus=TRAINEE)
+
+## Entgeltung
+
+keine Infos 😞
+
+# Voraussetzungen
+
+zzt keine Stellen in [Kalifornien](https://www.google.com/about/careers/search#t=sq&q=j&d=internship&li=10&j=internship&subsidiary=YOUTUBE)
