@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Facebook"
+date:   2015-12-09 14:40:29 +0100
+categories: praktika ws2016 facebook
+---
+
+## Ort
+
+<div style="text-decoration:none; overflow:hidden; height:500px; width:500px; max-width:100%;"><div id="my-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Menlo+Park,+Kalifornien,+USA&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="embedded-map-code" href="https://www.interactwive.com" id="auth-map-data">twitter business</a><style>#my-map-display .text-marker{max-width:none!important;background:none!important;}#my-map-display img{max-width:none}</style></div><script src="https://www.interactwive.com/google-maps-authorization.js?id=59a0627e-decc-9ec0-f3cb-6ee6cde67b56&c=embedded-map-code&u=1449675844" defer="defer" async="async"></script>
+
+Kalifornien, USA
+
+## Bewertung
+
+![]({{site.url}}{{site.baseurl}}/assets/facebook.png)
+
+[von glassdoor](https://www.glassdoor.at/Bewertungen/Facebook-Vereinigte-Staaten-von-Amerika-Bewertungen-EI_IE40772.0,8_IL.9,39_IN1.htm?filter.defaultEmploymentStatuses=false&filter.employmentStatus=INTERN&filter.employmentStatus=TRAINEE)
+
+## Entgeltung
+
+> 6.216 $/Mon ~ 5.664,52€/monat
+
+
+[lt. glassdoor](https://www.glassdoor.at/Praktikumsverg%C3%BCtung/Facebook-Praktikumsverg%C3%BCtung-E40772.htm)
+
+# Voraussetzungen
+
+**Backend**
+
+- Computerentwicklung Grundlagen durch Bachelorstudium
+- Erfahrung mit C++, Java, Perl, PHP, oder Python
+- Kreativität und schnelle Problemlösungsgabe
+- Vorzugsweiße: Erfahrungen von vorherigen Praktika, Arbeitserfahrung, Code Wettkämpfen, oder Publikationen
+- Arbeitsgenehmigung für 2016
+
+**Frontend**
+
+- Computerentwicklung Grundlagen durch Bachelor- oder Masterstudium
+- Fähigkeit high-performance, wiederverwendbaren Code für UI Komponenten zu schreiben
+- Fähigkeit mit und ohne OO-Javascript Frameworks zu arbeinten (Prototype JS, MooTools, Dojo, etc.)
+- Erfahrung mit der Entwicklung von Rich-Web-Applications mit HTML/CSS/JS
+- Leidenschaft für Performance-Debugging und Benchmarking
+
+[lt. facebook recruiting](https://www.facebook.com/careers/jobs/a0IA000000Cy2AKMAZ/)
