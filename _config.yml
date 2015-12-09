@@ -11,7 +11,7 @@ email: fhs37229@fh-salzburg.ac.at
 description: > # this means to ignore newlines until "baseurl:"
   jekyll page for potential internship candidates
 baseurl: "/internships" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://godfather27.github.io/" # the base hostname & protocol for your site
 twitter_username: SebCHuber
 github_username:  Godfather27
 permalink: /:title
