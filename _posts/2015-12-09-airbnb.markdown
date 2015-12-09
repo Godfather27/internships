@@ -2,7 +2,7 @@
 layout: post
 title:  "Airbnb"
 date:   2015-12-09 14:40:29 +0100
-categories: praktika ws2016
+categories: praktika ws2016 airbnb
 ---
 
 ## Ort
