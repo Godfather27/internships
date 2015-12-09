@@ -79,6 +79,8 @@ permalink: /about/
 |---|---|
 |[Twitch](http://www.twitch.tv/)| [Infos]({{site.url}}{{site.baseurl}}/twitch) |
 |---|---|
+|[Twitter](http://www.twitch.tv/)| [Infos]({{site.url}}{{site.baseurl}}/twitter) |
+|---|---|
 |Urban Dictionary|  |
 |---|---|
 |We Heart It|  |

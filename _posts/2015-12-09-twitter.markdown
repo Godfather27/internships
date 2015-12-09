@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Twitter"
+date:   2015-12-09 14:40:29 +0100
+categories: praktika ws2016 twitter
+---
+
+## Ort
+
+<div style="text-decoration:none; overflow:hidden; height:500px; width:500px; max-width:100%;"><div id="my-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=San+Francisco,+Kalifornien,+United+States&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="embedded-map-code" href="https://www.interactwive.com" id="auth-map-data">twitter business</a><style>#my-map-display .text-marker{max-width:none!important;background:none!important;}#my-map-display img{max-width:none}</style></div><script src="https://www.interactwive.com/google-maps-authorization.js?id=880504bf-697e-c972-d801-4dd904abd8e5&c=embedded-map-code&u=1449675844" defer="defer" async="async"></script>
+
+Kalifornien, USA
+
+## Bewertung
+
+![]({{site.url}}{{site.baseurl}}/assets/twitter.png)
+
+[von glassdoor](https://www.glassdoor.de/Bewertungen/Twitter-Bewertungen-E100569.htm?filter.defaultEmploymentStatuses=false&filter.employmentStatus=INTERN&filter.employmentStatus=TRAINEE)
+
+## Entgeltung
+
+> 42,16$/h ~ 6.659,40€/monat
+
+
+[lt. glassdoor](https://www.glassdoor.de/Praktikumsverg%C3%BCtung/Twitter-Praktikumsverg%C3%BCtung-E100569.htm)
+
+# Voraussetzungen
+
+- Currently pursuing a Bachelor’s, Master’s, or PhD in Computer Science or equivalent field.
+- Code using Java, Scala, C/C++, Python (back-end) and HTML/CSS and JavaScript (front-end).
+- Experience with web infrastructure, distributed systems, component-oriented software engineering and/or algorithms.
+- Knowledge of TCP/IP and network programming or designing / developing large software systems.
+- Knowledge of Unix/Linux or Windows environments and APIs.
+
+[lt. twitter recruiting](https://about.twitter.com/de/careers/positions?id=a0Dj0000004ihLlEAI&location=San%20Francisco)
