@@ -21,7 +21,7 @@ permalink: /about/
 |---|---|
 |Ask.fm|  |
 |---|---|
-|Basecamp|  |
+|Basecamp|  /
 |---|---|
 |Bleacher Report|  |
 |---|---|
