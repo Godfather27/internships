@@ -21,7 +21,7 @@ permalink: /about/
 |---|---|
 |Ask.fm|  |
 |---|---|
-|Basecamp|  /
+|Basecamp|
 |---|---|
 |Bleacher Report|  |
 |---|---|
@@ -33,7 +33,7 @@ permalink: /about/
 |---|---|
 |Dribbble|  |
 |---|---|
-|Facebook|  |
+|[Facebook](https://www.facebook.com/)| [Infos]({{site.url}}{{site.baseurl}}/facebook) |
 |---|---|
 |Fiverr|  |
 |---|---|
