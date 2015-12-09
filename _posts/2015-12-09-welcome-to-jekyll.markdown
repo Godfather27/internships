@@ -7,13 +7,13 @@ categories: praktika ws2016
 
 ## Ort
 
-<div style="text-decoration:none; overflow:hidden; height:500px; width:500px; max-width:100%;"><div id="my-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=San+Francisco,+Kalifornien,+United+States&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="embedded-map-code" href="https://www.interactwive.com" id="auth-map-data">twitter business</a><style>#my-map-display .text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div><script src="https://www.interactwive.com/google-maps-authorization.js?id=880504bf-697e-c972-d801-4dd904abd8e5&c=embedded-map-code&u=1449675844" defer="defer" async="async"></script>
+<div style="text-decoration:none; overflow:hidden; height:500px; width:500px; max-width:100%;"><div id="my-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=San+Francisco,+Kalifornien,+United+States&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="embedded-map-code" href="https://www.interactwive.com" id="auth-map-data">twitter business</a><style>#my-map-display .text-marker{max-width:none!important;background:none!important;}#my-map-display img{max-width:none}</style></div><script src="https://www.interactwive.com/google-maps-authorization.js?id=880504bf-697e-c972-d801-4dd904abd8e5&c=embedded-map-code&u=1449675844" defer="defer" async="async"></script>
 
 Kalifornien, USA
 
 ## Bewertung
 
-![]({{site.url}}{{site.basurl}}assets/airbnb.png)
+![]({{site.url}}{{site.baseurl}}assets/airbnb.png)
 
 [von glassdoor](https://www.glassdoor.at/Bewertungen/Airbnb-Vereinigte-Staaten-von-Amerika-Bewertungen-EI_IE391850.0,6_IL.7,37_IN1.htm?filter.defaultEmploymentStatuses=false&filter.employmentStatus=PART_TIME&filter.employmentStatus=TRAINEE)
 
