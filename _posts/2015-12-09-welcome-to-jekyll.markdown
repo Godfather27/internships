@@ -13,7 +13,7 @@ Kalifornien, USA
 
 ## Bewertung
 
-![]({{site.url}}{{site.baseurl}}assets/airbnb.png)
+![]({{site.url}}{{site.baseurl}}/assets/airbnb.png)
 
 [von glassdoor](https://www.glassdoor.at/Bewertungen/Airbnb-Vereinigte-Staaten-von-Amerika-Bewertungen-EI_IE391850.0,6_IL.7,37_IN1.htm?filter.defaultEmploymentStatuses=false&filter.employmentStatus=PART_TIME&filter.employmentStatus=TRAINEE)
 

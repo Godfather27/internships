@@ -15,7 +15,7 @@ permalink: /about/
 |---|---|
 |500px|  |
 |---|---|
-|[Airbnb](https://www.airbnb.at/)| [Infos]({{site.url}}{{site.baseurl}}airbnb) |
+|[Airbnb](https://www.airbnb.at/)| [Infos]({{site.url}}{{site.baseurl}}/airbnb) |
 |---|---|
 |A List Apart|  |
 |---|---|
